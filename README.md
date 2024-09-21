@@ -2,7 +2,7 @@
 # Sobre Mim<br><br>👋 Olá! Eu sou VoLTz, um aprendiz que tem conhecimento basico em javascript.
 
 # 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
 ![VoLTz-dll's Stats](https://github-readme-stats.vercel.app/api?username=VoLTz-dll&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)<br/>
 ![VoLTz-dll's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VoLTz-dll&theme=vue-dark&hide_border=false)<br/>
