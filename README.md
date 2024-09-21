@@ -1,8 +1,5 @@
 # 💫 About Me:
-# Sobre Mim<br><br>👋 Olá! Eu sou Hamertingo, um programador que odeia Lua. Tenho conhecimento em lua e conhecimento basico em javascript.
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/rQzqRrpzQz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hamerti015) 
+# Sobre Mim<br><br>👋 Olá! Eu sou VoLTz, um aprendiz que tem conhecimento basico em javascript.
 
 # 💻 Tech Stack:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
