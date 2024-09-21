@@ -7,9 +7,9 @@
 # 💻 Tech Stack:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hamertingo&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hamertingo&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamertingo&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![VoLTz-dll's Stats](https://github-readme-stats.vercel.app/api?username=VoLTz-dll&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)<br/>
+![VoLTz-dll's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VoLTz-dll&theme=vue-dark&hide_border=false)<br/>
+![VoLTz-dll's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoLTz-dll&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=voltz-dll&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
